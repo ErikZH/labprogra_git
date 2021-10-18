@@ -1,0 +1,23 @@
+# Nmap 7.92 scan initiated Mon Oct 18 18:48:14 2021 as: "C:\\Program Files (x86)\\Nmap\\nmap.exe" -F -oN C:\\Users\\Erik\\Desktop\\resultados.txt 192.168.100.248 www.wikipedia.org 187.189.141.58
+Nmap scan report for 192.168.100.248
+Host is up (0.00088s latency).
+Not shown: 97 closed tcp ports (reset)
+PORT    STATE SERVICE
+135/tcp open  msrpc
+139/tcp open  netbios-ssn
+445/tcp open  microsoft-ds
+
+Nmap scan report for www.wikipedia.org (208.80.153.224)
+Host is up (0.018s latency).
+rDNS record for 208.80.153.224: text-lb.codfw.wikimedia.org
+Not shown: 93 closed tcp ports (reset)
+PORT     STATE    SERVICE
+22/tcp   filtered ssh
+25/tcp   open     smtp
+80/tcp   open     http
+179/tcp  filtered bgp
+443/tcp  open     https
+5666/tcp filtered nrpe
+9100/tcp filtered jetdirect
+
+# Nmap done at Mon Oct 18 18:48:18 2021 -- 3 IP addresses (2 hosts up) scanned in 4.18 seconds

@@ -1,0 +1,416 @@
+Configuración IP de Windows
+
+    nexusrules.officeapps.live.com
+    ----------------------------------------
+    Nombre de registro  . : nexusrules.officeapps.live.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 44
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : prod.nexusrules.live.com.akadns.net
+
+
+    Nombre de registro  . : prod.nexusrules.live.com.akadns.net
+    Tipo de registro  . . : 1
+    Período de vida . . . : 44
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 52.109.8.19
+
+
+    useroperation.wondershare.com
+    ----------------------------------------
+    No hay registros de tipo AAAA
+
+
+    useroperation.wondershare.com
+    ----------------------------------------
+    Nombre de registro  . : useroperation.wondershare.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 221291
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 127.0.0.1
+
+
+    helper-stats.wondershare.com
+    ----------------------------------------
+    No hay registros de tipo AAAA
+
+
+    helper-stats.wondershare.com
+    ----------------------------------------
+    Nombre de registro  . : helper-stats.wondershare.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 221291
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 127.0.0.1
+
+
+    1.0.0.127.in-addr.arpa
+    ----------------------------------------
+    Nombre de registro  . : 1.0.0.127.in-addr.arpa.
+    Tipo de registro  . . : 12
+    Período de vida . . . : 221291
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro PTR. . . . . : support.wondershare.net
+
+
+    Nombre de registro  . : 1.0.0.127.in-addr.arpa.
+    Tipo de registro  . . : 12
+    Período de vida . . . : 221291
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro PTR. . . . . : platform.wondershare.com
+
+
+    Nombre de registro  . : 1.0.0.127.in-addr.arpa.
+    Tipo de registro  . . : 12
+    Período de vida . . . : 221291
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro PTR. . . . . : api.wondershare.com
+
+
+    Nombre de registro  . : 1.0.0.127.in-addr.arpa.
+    Tipo de registro  . . : 12
+    Período de vida . . . : 221291
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro PTR. . . . . : account.wondershare.com
+
+
+    Nombre de registro  . : 1.0.0.127.in-addr.arpa.
+    Tipo de registro  . . : 12
+    Período de vida . . . : 221291
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro PTR. . . . . : useroperation.wondershare.com
+
+
+    Nombre de registro  . : 1.0.0.127.in-addr.arpa.
+    Tipo de registro  . . : 12
+    Período de vida . . . : 221291
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro PTR. . . . . : helper-stats.wondershare.com
+
+
+    a-ring-fallback.msedge.net
+    ----------------------------------------
+    Nombre de registro  . : a-ring-fallback.msedge.net
+    Tipo de registro  . . : 5
+    Período de vida . . . : 23
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : a-9999.dc-msedge.net
+
+
+    Nombre de registro  . : a-9999.dc-msedge.net
+    Tipo de registro  . . : 1
+    Período de vida . . . : 23
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 131.253.33.254
+
+
+    support.wondershare.net
+    ----------------------------------------
+    No hay registros de tipo AAAA
+
+
+    support.wondershare.net
+    ----------------------------------------
+    Nombre de registro  . : support.wondershare.net
+    Tipo de registro  . . : 1
+    Período de vida . . . : 221291
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 127.0.0.1
+
+
+    activity.windows.com
+    ----------------------------------------
+    Nombre de registro  . : activity.windows.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 55
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : activity-geo.trafficmanager.net
+
+
+    Nombre de registro  . : activity-geo.trafficmanager.net
+    Tipo de registro  . . : 1
+    Período de vida . . . : 55
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 13.68.233.9
+
+
+    teams.microsoft.com
+    ----------------------------------------
+    Nombre de registro  . : teams.microsoft.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 203
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : teams.office.com
+
+
+    Nombre de registro  . : teams.office.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 203
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : teams-office-com.s-0005.s-msedge.net
+
+
+    Nombre de registro  . : teams-office-com.s-0005.s-msedge.net
+    Tipo de registro  . . : 5
+    Período de vida . . . : 203
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : s-0005.s-msedge.net
+
+
+    Nombre de registro  . : s-0005.s-msedge.net
+    Tipo de registro  . . : 1
+    Período de vida . . . : 203
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 52.113.194.132
+
+
+    fp-vs-nocache.azureedge.net
+    ----------------------------------------
+    Nombre de registro  . : fp-vs-nocache.azureedge.net
+    Tipo de registro  . . : 5
+    Período de vida . . . : 697
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : fp-vs-nocache.ec.azureedge.net
+
+
+    Nombre de registro  . : fp-vs-nocache.ec.azureedge.net
+    Tipo de registro  . . : 5
+    Período de vida . . . : 697
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : cs9.wpc.v0cdn.net
+
+
+    Nombre de registro  . : cs9.wpc.v0cdn.net
+    Tipo de registro  . . : 1
+    Período de vida . . . : 697
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 72.21.81.200
+
+
+    ocsp.digicert.com
+    ----------------------------------------
+    Nombre de registro  . : ocsp.digicert.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 387
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : cs9.wac.phicdn.net
+
+
+    Nombre de registro  . : cs9.wac.phicdn.net
+    Tipo de registro  . . : 1
+    Período de vida . . . : 387
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 72.21.91.29
+
+
+    account.wondershare.com
+    ----------------------------------------
+    No hay registros de tipo AAAA
+
+
+    account.wondershare.com
+    ----------------------------------------
+    Nombre de registro  . : account.wondershare.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 221291
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 127.0.0.1
+
+
+    images-ext-1.discordapp.net
+    ----------------------------------------
+    Nombre de registro  . : images-ext-1.discordapp.net
+    Tipo de registro  . . : 1
+    Período de vida . . . : 108
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 162.159.130.232
+
+
+    Nombre de registro  . : images-ext-1.discordapp.net
+    Tipo de registro  . . : 1
+    Período de vida . . . : 108
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 162.159.129.232
+
+
+    Nombre de registro  . : images-ext-1.discordapp.net
+    Tipo de registro  . . : 1
+    Período de vida . . . : 108
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 162.159.134.232
+
+
+    Nombre de registro  . : images-ext-1.discordapp.net
+    Tipo de registro  . . : 1
+    Período de vida . . . : 108
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 162.159.128.232
+
+
+    Nombre de registro  . : images-ext-1.discordapp.net
+    Tipo de registro  . . : 1
+    Período de vida . . . : 108
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 162.159.133.232
+
+
+    platform.wondershare.com
+    ----------------------------------------
+    No hay registros de tipo AAAA
+
+
+    platform.wondershare.com
+    ----------------------------------------
+    Nombre de registro  . : platform.wondershare.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 221291
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 127.0.0.1
+
+
+    spo-ring.msedge.net
+    ----------------------------------------
+    Nombre de registro  . : spo-ring.msedge.net
+    Tipo de registro  . . : 5
+    Período de vida . . . : 10
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : spo-ring.spo-9999.spo-msedge.net
+
+
+    Nombre de registro  . : spo-ring.spo-9999.spo-msedge.net
+    Tipo de registro  . . : 5
+    Período de vida . . . : 10
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : spo-9999.spo-msedge.net
+
+
+    Nombre de registro  . : spo-9999.spo-msedge.net
+    Tipo de registro  . . : 1
+    Período de vida . . . : 10
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 13.107.136.254
+
+
+    api.wondershare.com
+    ----------------------------------------
+    No hay registros de tipo AAAA
+
+
+    api.wondershare.com
+    ----------------------------------------
+    Nombre de registro  . : api.wondershare.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 221291
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 127.0.0.1
+
+
+    t-ring.msedge.net
+    ----------------------------------------
+    Nombre de registro  . : t-ring.msedge.net
+    Tipo de registro  . . : 5
+    Período de vida . . . : 19
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : t-ring.t-9999.t-msedge.net
+
+
+    Nombre de registro  . : t-ring.t-9999.t-msedge.net
+    Tipo de registro  . . : 5
+    Período de vida . . . : 19
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : t-9999.t-msedge.net
+
+
+    Nombre de registro  . : t-9999.t-msedge.net
+    Tipo de registro  . . : 1
+    Período de vida . . . : 19
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 13.107.246.254
+
+
+    fp-afd.azureedge.net
+    ----------------------------------------
+    Nombre de registro  . : fp-afd.azureedge.net
+    Tipo de registro  . . : 5
+    Período de vida . . . : 52
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : fp-afd.afd.azureedge.net
+
+
+    Nombre de registro  . : fp-afd.afd.azureedge.net
+    Tipo de registro  . . : 5
+    Período de vida . . . : 52
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : firstparty-azurefd-prod-first.trafficmanager.net
+
+
+    Nombre de registro  . : firstparty-azurefd-prod-first.trafficmanager.net
+    Tipo de registro  . . : 5
+    Período de vida . . . : 52
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : shed.dual-low.part-0029.t-0009.t-msedge.net
+
+
+    Nombre de registro  . : shed.dual-low.part-0029.t-0009.t-msedge.net
+    Tipo de registro  . . : 5
+    Período de vida . . . : 52
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : part-0029.t-0009.t-msedge.net
+
+
+    Nombre de registro  . : part-0029.t-0009.t-msedge.net
+    Tipo de registro  . . : 1
+    Período de vida . . . : 52
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 13.107.246.57
+
+
+    Nombre de registro  . : part-0029.t-0009.t-msedge.net
+    Tipo de registro  . . : 1
+    Período de vida . . . : 52
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 13.107.213.57
